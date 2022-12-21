@@ -1,5 +1,5 @@
 # setup-node
-hmmm new version 3.5.2 
+hmmm new version 3.5.3 
 [![build-test](https://github.com/actions/setup-node/actions/workflows/build-test.yml/badge.svg)](https://github.com/actions/setup-node/actions/workflows/build-test.yml)
 [![versions](https://github.com/actions/setup-node/actions/workflows/versions.yml/badge.svg)](https://github.com/actions/setup-node/actions/workflows/versions.yml)
 [![proxy](https://github.com/actions/setup-node/actions/workflows/proxy.yml/badge.svg)](https://github.com/actions/setup-node/actions/workflows/proxy.yml)
